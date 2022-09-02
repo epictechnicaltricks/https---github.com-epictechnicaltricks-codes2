@@ -1,0 +1,15 @@
+refret find on char
+repeat find word
+
+max repeated char
+how may vowel
+voluwn replcae
+"sipu23" find digit and char
+
+*********
+how are you
+
+you are how 
+***************
+
+subham jeet
